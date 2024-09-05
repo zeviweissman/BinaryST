@@ -1,4 +1,5 @@
-﻿using BinaryTreeTest.Model;
+﻿using BinaryTreeTest.DataStructure;
+using BinaryTreeTest.Model;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics.Metrics;

@@ -1,4 +1,4 @@
-﻿using BinaryTreeTest.Model;
+﻿using BinaryTreeTest.DataStructure;
 using BinaryTreeTest.Service;
 using static BinaryTreeTest.Service.JsonService;
 namespace BinaryTreeTest

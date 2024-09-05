@@ -12,3 +12,4 @@ C:\Users\1\source\repos\BinaryTreeTest\BinaryTreeTest\obj\Debug\net8.0\refint\Bi
 C:\Users\1\source\repos\BinaryTreeTest\BinaryTreeTest\obj\Debug\net8.0\BinaryTreeTest.pdb
 C:\Users\1\source\repos\BinaryTreeTest\BinaryTreeTest\obj\Debug\net8.0\BinaryTreeTest.genruntimeconfig.cache
 C:\Users\1\source\repos\BinaryTreeTest\BinaryTreeTest\obj\Debug\net8.0\ref\BinaryTreeTest.dll
+C:\Users\1\source\repos\BinaryTreeTest\BinaryTreeTest\obj\Debug\net8.0\BinaryTreeTest.sourcelink.json

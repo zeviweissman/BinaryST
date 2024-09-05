@@ -10,6 +10,7 @@ namespace BinaryTreeTest.Service
 {
 	internal static class JsonService
 	{
+		static Exception FailedReadingJsonFileException = new Exception("error reading Json file");
 		static string jsonDefensePath = "../../../JsonFiles/Defenses.Json";
 		static string jsonThreatsPath = "../../../JsonFiles/Threats.Json";
 		static async Task<T?> ReadFromJsonAsync<T>(string filePath, JsonSerializerOptions options = null)
@@ -31,9 +32,11 @@ namespace BinaryTreeTest.Service
 
 
 		static public async Task<List<Defense>> GetAllDefences() =>
-			await ReadFromJsonAsync<List<Defense>>(jsonDefensePath);
+			await ReadFromJsonAsync<List<Defense>>(jsonDefensePath)
+			?? throw FailedReadingJsonFileException;
 		static public async Task<List<Threat>> GetAllThreats() =>
-			await ReadFromJsonAsync<List<Threat>>(jsonThreatsPath);
+			await ReadFromJsonAsync<List<Threat>>(jsonThreatsPath)
+			?? throw FailedReadingJsonFileException;
 
 
 

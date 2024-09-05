@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\1\\source\\repos\\BinaryTreeTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2EDF5BBC-CF28-4E89-B99E-DC0DA1B32DFC}|BinaryTreeTest\\BinaryTreeTest.csproj|c:\\users\\1\\source\\repos\\binarytreetest\\binarytreetest\\service\\jsonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EDF5BBC-CF28-4E89-B99E-DC0DA1B32DFC}|BinaryTreeTest\\BinaryTreeTest.csproj|solutionrelative:binarytreetest\\service\\jsonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2EDF5BBC-CF28-4E89-B99E-DC0DA1B32DFC}|BinaryTreeTest\\BinaryTreeTest.csproj|c:\\users\\1\\source\\repos\\binarytreetest\\binarytreetest\\datastructure\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDF5BBC-CF28-4E89-B99E-DC0DA1B32DFC}|BinaryTreeTest\\BinaryTreeTest.csproj|solutionrelative:binarytreetest\\datastructure\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EDF5BBC-CF28-4E89-B99E-DC0DA1B32DFC}|BinaryTreeTest\\BinaryTreeTest.csproj|c:\\users\\1\\source\\repos\\binarytreetest\\binarytreetest\\model\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EDF5BBC-CF28-4E89-B99E-DC0DA1B32DFC}|BinaryTreeTest\\BinaryTreeTest.csproj|solutionrelative:binarytreetest\\model\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2EDF5BBC-CF28-4E89-B99E-DC0DA1B32DFC}|BinaryTreeTest\\BinaryTreeTest.csproj|c:\\users\\1\\source\\repos\\binarytreetest\\binarytreetest\\datastructure\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDF5BBC-CF28-4E89-B99E-DC0DA1B32DFC}|BinaryTreeTest\\BinaryTreeTest.csproj|solutionrelative:binarytreetest\\datastructure\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EDF5BBC-CF28-4E89-B99E-DC0DA1B32DFC}|BinaryTreeTest\\BinaryTreeTest.csproj|c:\\users\\1\\source\\repos\\binarytreetest\\binarytreetest\\model\\defense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EDF5BBC-CF28-4E89-B99E-DC0DA1B32DFC}|BinaryTreeTest\\BinaryTreeTest.csproj|solutionrelative:binarytreetest\\model\\defense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2EDF5BBC-CF28-4E89-B99E-DC0DA1B32DFC}|BinaryTreeTest\\BinaryTreeTest.csproj|c:\\users\\1\\source\\repos\\binarytreetest\\binarytreetest\\datastructure\\treestd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDF5BBC-CF28-4E89-B99E-DC0DA1B32DFC}|BinaryTreeTest\\BinaryTreeTest.csproj|solutionrelative:binarytreetest\\datastructure\\treestd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDF5BBC-CF28-4E89-B99E-DC0DA1B32DFC}|BinaryTreeTest\\BinaryTreeTest.csproj|c:\\users\\1\\source\\repos\\binarytreetest\\binarytreetest\\datastructure\\itree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDF5BBC-CF28-4E89-B99E-DC0DA1B32DFC}|BinaryTreeTest\\BinaryTreeTest.csproj|solutionrelative:binarytreetest\\datastructure\\itree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2EDF5BBC-CF28-4E89-B99E-DC0DA1B32DFC}|BinaryTreeTest\\BinaryTreeTest.csproj|c:\\users\\1\\source\\repos\\binarytreetest\\binarytreetest\\model\\threat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EDF5BBC-CF28-4E89-B99E-DC0DA1B32DFC}|BinaryTreeTest\\BinaryTreeTest.csproj|solutionrelative:binarytreetest\\model\\threat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EDF5BBC-CF28-4E89-B99E-DC0DA1B32DFC}|BinaryTreeTest\\BinaryTreeTest.csproj|c:\\users\\1\\source\\repos\\binarytreetest\\binarytreetest\\model\\treeinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EDF5BBC-CF28-4E89-B99E-DC0DA1B32DFC}|BinaryTreeTest\\BinaryTreeTest.csproj|solutionrelative:binarytreetest\\model\\treeinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2EDF5BBC-CF28-4E89-B99E-DC0DA1B32DFC}|BinaryTreeTest\\BinaryTreeTest.csproj|c:\\users\\1\\source\\repos\\binarytreetest\\binarytreetest\\service\\jsonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDF5BBC-CF28-4E89-B99E-DC0DA1B32DFC}|BinaryTreeTest\\BinaryTreeTest.csproj|solutionrelative:binarytreetest\\service\\jsonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2EDF5BBC-CF28-4E89-B99E-DC0DA1B32DFC}|BinaryTreeTest\\BinaryTreeTest.csproj|c:\\users\\1\\source\\repos\\binarytreetest\\binarytreetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EDF5BBC-CF28-4E89-B99E-DC0DA1B32DFC}|BinaryTreeTest\\BinaryTreeTest.csproj|solutionrelative:binarytreetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EDF5BBC-CF28-4E89-B99E-DC0DA1B32DFC}|BinaryTreeTest\\BinaryTreeTest.csproj|c:\\users\\1\\source\\repos\\binarytreetest\\binarytreetest\\model\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EDF5BBC-CF28-4E89-B99E-DC0DA1B32DFC}|BinaryTreeTest\\BinaryTreeTest.csproj|solutionrelative:binarytreetest\\model\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2EDF5BBC-CF28-4E89-B99E-DC0DA1B32DFC}|BinaryTreeTest\\BinaryTreeTest.csproj|c:\\users\\1\\source\\repos\\binarytreetest\\binarytreetest\\model\\defense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDF5BBC-CF28-4E89-B99E-DC0DA1B32DFC}|BinaryTreeTest\\BinaryTreeTest.csproj|solutionrelative:binarytreetest\\model\\defense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2EDF5BBC-CF28-4E89-B99E-DC0DA1B32DFC}|BinaryTreeTest\\BinaryTreeTest.csproj|c:\\users\\1\\source\\repos\\binarytreetest\\binarytreetest\\utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,33 +66,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "TreeStd.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\BinaryTreeTest\\BinaryTreeTest\\DataStructure\\TreeStd.cs",
+              "RelativeDocumentMoniker": "BinaryTreeTest\\DataStructure\\TreeStd.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\BinaryTreeTest\\BinaryTreeTest\\DataStructure\\TreeStd.cs",
+              "RelativeToolTip": "BinaryTreeTest\\DataStructure\\TreeStd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:58:44.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Threat.cs",
               "DocumentMoniker": "C:\\Users\\1\\source\\repos\\BinaryTreeTest\\BinaryTreeTest\\Model\\Threat.cs",
               "RelativeDocumentMoniker": "BinaryTreeTest\\Model\\Threat.cs",
               "ToolTip": "C:\\Users\\1\\source\\repos\\BinaryTreeTest\\BinaryTreeTest\\Model\\Threat.cs",
               "RelativeToolTip": "BinaryTreeTest\\Model\\Threat.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T09:36:05.541Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BinaryTreeTest",
+              "DocumentIndex": 11,
+              "Title": "BinaryTreeTest.csproj",
               "DocumentMoniker": "C:\\Users\\1\\source\\repos\\BinaryTreeTest\\BinaryTreeTest\\BinaryTreeTest.csproj",
               "RelativeDocumentMoniker": "BinaryTreeTest\\BinaryTreeTest.csproj",
               "ToolTip": "C:\\Users\\1\\source\\repos\\BinaryTreeTest\\BinaryTreeTest\\BinaryTreeTest.csproj",
               "RelativeToolTip": "BinaryTreeTest\\BinaryTreeTest.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-05T09:33:28.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T09:33:28.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Threats.Json",
               "DocumentMoniker": "C:\\Users\\1\\source\\repos\\BinaryTreeTest\\BinaryTreeTest\\JsonFiles\\Threats.Json",
               "RelativeDocumentMoniker": "BinaryTreeTest\\JsonFiles\\Threats.Json",
@@ -96,25 +112,24 @@
               "RelativeToolTip": "BinaryTreeTest\\JsonFiles\\Threats.Json",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAABIAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-05T09:32:07.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T09:32:07.415Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "JsonService.cs",
               "DocumentMoniker": "C:\\Users\\1\\source\\repos\\BinaryTreeTest\\BinaryTreeTest\\Service\\JsonService.cs",
               "RelativeDocumentMoniker": "BinaryTreeTest\\Service\\JsonService.cs",
               "ToolTip": "C:\\Users\\1\\source\\repos\\BinaryTreeTest\\BinaryTreeTest\\Service\\JsonService.cs",
               "RelativeToolTip": "BinaryTreeTest\\Service\\JsonService.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAADAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCYAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T09:14:17.525Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Defense.cs",
               "DocumentMoniker": "C:\\Users\\1\\source\\repos\\BinaryTreeTest\\BinaryTreeTest\\Model\\Defense.cs",
               "RelativeDocumentMoniker": "BinaryTreeTest\\Model\\Defense.cs",
@@ -127,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Defenses.Json",
               "DocumentMoniker": "C:\\Users\\1\\source\\repos\\BinaryTreeTest\\BinaryTreeTest\\JsonFiles\\Defenses.Json",
               "RelativeDocumentMoniker": "BinaryTreeTest\\JsonFiles\\Defenses.Json",
@@ -135,12 +150,11 @@
               "RelativeToolTip": "BinaryTreeTest\\JsonFiles\\Defenses.Json",
               "ViewState": "AQIAAFQAAAAAAAAAAAAAAAoAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-05T08:59:33.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T08:59:33.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Utils.cs",
               "DocumentMoniker": "C:\\Users\\1\\source\\repos\\BinaryTreeTest\\BinaryTreeTest\\Utils\\Utils.cs",
               "RelativeDocumentMoniker": "BinaryTreeTest\\Utils\\Utils.cs",
@@ -153,26 +167,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Tree.cs",
-              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\BinaryTreeTest\\BinaryTreeTest\\Model\\Tree.cs",
-              "RelativeDocumentMoniker": "BinaryTreeTest\\Model\\Tree.cs",
-              "ToolTip": "C:\\Users\\1\\source\\repos\\BinaryTreeTest\\BinaryTreeTest\\Model\\Tree.cs",
-              "RelativeToolTip": "BinaryTreeTest\\Model\\Tree.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBsAAAAHAAAA",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\BinaryTreeTest\\BinaryTreeTest\\DataStructure\\Tree.cs",
+              "RelativeDocumentMoniker": "BinaryTreeTest\\DataStructure\\Tree.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\BinaryTreeTest\\BinaryTreeTest\\DataStructure\\Tree.cs",
+              "RelativeToolTip": "BinaryTreeTest\\DataStructure\\Tree.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANgAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T08:21:54.128Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TreeInterface.cs",
-              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\BinaryTreeTest\\BinaryTreeTest\\Model\\TreeInterface.cs",
-              "RelativeDocumentMoniker": "BinaryTreeTest\\Model\\TreeInterface.cs",
-              "ToolTip": "C:\\Users\\1\\source\\repos\\BinaryTreeTest\\BinaryTreeTest\\Model\\TreeInterface.cs",
-              "RelativeToolTip": "BinaryTreeTest\\Model\\TreeInterface.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "DocumentIndex": 3,
+              "Title": "ITree.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\BinaryTreeTest\\BinaryTreeTest\\DataStructure\\ITree.cs",
+              "RelativeDocumentMoniker": "BinaryTreeTest\\DataStructure\\ITree.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\BinaryTreeTest\\BinaryTreeTest\\DataStructure\\ITree.cs",
+              "RelativeToolTip": "BinaryTreeTest\\DataStructure\\ITree.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T08:16:46.142Z",
               "EditorCaption": ""
@@ -181,24 +195,24 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Node.cs",
-              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\BinaryTreeTest\\BinaryTreeTest\\Model\\Node.cs",
-              "RelativeDocumentMoniker": "BinaryTreeTest\\Model\\Node.cs",
-              "ToolTip": "C:\\Users\\1\\source\\repos\\BinaryTreeTest\\BinaryTreeTest\\Model\\Node.cs",
-              "RelativeToolTip": "BinaryTreeTest\\Model\\Node.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBQAAAAzAAAA",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\BinaryTreeTest\\BinaryTreeTest\\DataStructure\\Node.cs",
+              "RelativeDocumentMoniker": "BinaryTreeTest\\DataStructure\\Node.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\BinaryTreeTest\\BinaryTreeTest\\DataStructure\\Node.cs",
+              "RelativeToolTip": "BinaryTreeTest\\DataStructure\\Node.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T08:13:57.983Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\1\\source\\repos\\BinaryTreeTest\\BinaryTreeTest\\Program.cs",
               "RelativeDocumentMoniker": "BinaryTreeTest\\Program.cs",
               "ToolTip": "C:\\Users\\1\\source\\repos\\BinaryTreeTest\\BinaryTreeTest\\Program.cs",
               "RelativeToolTip": "BinaryTreeTest\\Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA8AAAA3AAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAoAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T08:00:02.569Z",
               "EditorCaption": ""
