@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\BinaryTreeTest\BinaryTreeTest\obj\Debug\net8.0\BinaryTreeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\BinaryTreeTest\BinaryTreeTest\obj\Debug\net8.0\BinaryTreeTest.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\BinaryTreeTest\BinaryTreeTest\obj\Debug\net8.0\BinaryTreeTest.AssemblyInfo.cs
+C:\Users\1\source\repos\BinaryTreeTest\BinaryTreeTest\obj\Debug\net8.0\BinaryTreeTest.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\BinaryTreeTest\BinaryTreeTest\bin\Debug\net8.0\BinaryTreeTest.exe
+C:\Users\1\source\repos\BinaryTreeTest\BinaryTreeTest\bin\Debug\net8.0\BinaryTreeTest.deps.json
+C:\Users\1\source\repos\BinaryTreeTest\BinaryTreeTest\bin\Debug\net8.0\BinaryTreeTest.runtimeconfig.json
+C:\Users\1\source\repos\BinaryTreeTest\BinaryTreeTest\bin\Debug\net8.0\BinaryTreeTest.dll
+C:\Users\1\source\repos\BinaryTreeTest\BinaryTreeTest\bin\Debug\net8.0\BinaryTreeTest.pdb
+C:\Users\1\source\repos\BinaryTreeTest\BinaryTreeTest\obj\Debug\net8.0\BinaryTreeTest.dll
+C:\Users\1\source\repos\BinaryTreeTest\BinaryTreeTest\obj\Debug\net8.0\refint\BinaryTreeTest.dll
+C:\Users\1\source\repos\BinaryTreeTest\BinaryTreeTest\obj\Debug\net8.0\BinaryTreeTest.pdb
+C:\Users\1\source\repos\BinaryTreeTest\BinaryTreeTest\obj\Debug\net8.0\BinaryTreeTest.genruntimeconfig.cache
+C:\Users\1\source\repos\BinaryTreeTest\BinaryTreeTest\obj\Debug\net8.0\ref\BinaryTreeTest.dll
